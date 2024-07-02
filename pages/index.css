@@ -1,11 +1,12 @@
 .noto-serif {
-  font-family: "Noto Serif", "Times New Roman", serif serif;
+  font-family: "Noto Serif", serif;
   font-weight: 400;
-  font-style: italic;
+  font-style: normal, italic;
   font-variation-settings: "wdth" 100;
 }
 .inter {
-  font-family: "Inter", arial, sans-serif;
+  font-family: "Inter", sans-serif;
+  font-weight: 500, 400, 700;
   font-style: normal;
   font-variation-settings: "slnt" 0;
 }
