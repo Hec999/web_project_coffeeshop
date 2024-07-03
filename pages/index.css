@@ -85,6 +85,11 @@
 }
 .header__description {
   max-width: 683px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
 }
 .header__image {
   width: 646px;
@@ -106,13 +111,23 @@
 .header__footer_hour {
   margin-top: 0;
   margin-bottom: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #838383;
 }
 .header__footer_place {
   display: flex;
   justify-content: end;
-}
-.header__footer_place {
   margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #838383;
 }
 .recipes {
 }
